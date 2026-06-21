@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot Hỏi Đáp Pháp Luật Khám Chữa Bệnh Sử Dụng RAG",
+  "description": "Hệ thống chatbot tư vấn pháp luật y tế, khám chữa bệnh và bảo hiểm y tế thông minh, sử dụng công nghệ RAG truy xuất căn cứ pháp lý chính xác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
